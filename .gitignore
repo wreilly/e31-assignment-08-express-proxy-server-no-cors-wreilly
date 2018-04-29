@@ -49,7 +49,9 @@ Thumbs.db
 
 # Also:
 nohup.out
+# Emacs auto-save, auto-backup stuff:
 *~
+\#*#
 .DS_Store
 .env
 # WebStorm stuff:
